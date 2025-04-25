@@ -21,8 +21,8 @@ A React application for visualizing and configuring a directed acyclic graph (DA
 1. Clone this repo:
 
 ```bash
-git clone <your-repo-url>
-cd journey-builder
+git clone https://github.com/ashutoshvjti/2926fe.git
+cd 2926fe
 ```
 
 2. Install dependencies:
@@ -56,7 +56,7 @@ npm run test:watch
 ## Project Structure
 
 ```
-journey-builder/
+2926fe/
 ├── src/
 │   ├── components/
 │   │   ├── FormPrefill/        # Prefill UI components
